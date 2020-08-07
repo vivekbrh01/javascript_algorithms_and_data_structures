@@ -1,4 +1,4 @@
-// Linked list basic implimentation
+// Linked list basic implementation
 
 class Node {
 	constructor(data, next = null) {
@@ -139,3 +139,5 @@ showListItems.clearList();
 showListItems.printListData();
 
 // showListItems.getAt(3);
+
+
