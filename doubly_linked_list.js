@@ -73,6 +73,7 @@ class DoublyLinkedList {
 		this.length--;
 		return this
 	}
+	
 }
 
 let list = new DoublyLinkedList();
